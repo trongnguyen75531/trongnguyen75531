@@ -5,14 +5,14 @@
 
 ## 👨‍💻 About Me | Về mình
 
-- ✨ I'm a self-taught web developer from Vietnam  
-  ✨ Mình là người tự học lập trình web từ Việt Nam
-- 🌱 Currently learning **Java, Spring, MySQL**  
-  🌱 Hiện đang học **Java, Spring, MySQL**
+- ✨ I'm a self-taught web developer and a graduate of University of Information Technology - UIT  
+  ✨ Mình là người tự học lập trình và là cựu sinh viên Đại học Công nghệ Thông tin - ĐH QG TP.HCM
+- 🌱 Currently learning **Java, Spring, MySQL, React, Redux, React Native**  
+  🌱 Hiện đang học **Java, Spring, MySQL, React, Redux, React Native**
 - ✍️ Building small projects to grow fast  
   ✍️ Mình đang làm project nhỏ để tiến bộ nhanh
-- 🌟 Goal: Become a backend developer in 2025  
-  🌟 Mục tiêu: Trở thành backend developer trong năm 2025
+- 🌟 Goal: Become a Backend developer in 2025  
+  🌟 Mục tiêu: Trở thành Backend developer trong năm 2025
 
 ---
 
@@ -43,8 +43,8 @@
 
 ## ☕ Let's connect | Kết nối với mình nha
 
-- Facebook: [fb.com/trongnguyen](https://facebook.com)
-- Email: trongnguyen.dev@gmail.com
+- Facebook: [fb.com/trongnguyen75531](https://facebook.com/trongnguyen75531)
+- Email: trongnguyenvan.work@gmail.com
 - GitHub: [@trongnguyen75531](https://github.com/trongnguyen75531)
 
 ---
