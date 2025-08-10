@@ -1,21 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Trong Nguyen</h1>
 <p align="center"><em>"Don't worry about making mistakes!"<br> — Đừng lo về việc mắc sai lầm!</em></p>
 
----
-
-## 👨‍💻 About Me | Về mình
-
-- ✨ I'm a self-taught web developer and a graduate of University of Information Technology - UIT  
-  ✨ Mình là người tự học lập trình và là cựu sinh viên Đại học Công nghệ Thông tin - ĐH QG TP.HCM
-- 🌱 Currently learning **Java, Spring, MySQL, React, Redux, React Native**  
-  🌱 Hiện đang học **Java, Spring, MySQL, React, Redux, React Native**
-- ✍️ Building small projects to grow fast  
-  ✍️ Mình đang làm project nhỏ để tiến bộ nhanh
-- 🌟 Goal: Become a Backend developer in 2025  
-  🌟 Mục tiêu: Trở thành Backend developer trong năm 2025
-
----
-
 ## 🔧 Tech Stack | Công nghệ mình đang dùng
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
