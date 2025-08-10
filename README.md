@@ -1,4 +1,6 @@
-<h4>Hi there 👋, I'm Trong Nguyen</h1>
+<h2>Hi there 👋, I'm Trong Nguyen</h1>
+
+---
 
 ## 🔧 Tech Stack | Công nghệ mình đang dùng
 
