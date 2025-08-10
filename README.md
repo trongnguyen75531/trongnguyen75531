@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Trong Nguyen</h1>
-<p align="center"><em>"Don't worry about making mistakes!"<br> — Đừng lo về việc mắc sai lầm!</em></p>
+<h4>Hi there 👋, I'm Trong Nguyen</h1>
 
 ## 🔧 Tech Stack | Công nghệ mình đang dùng
 
